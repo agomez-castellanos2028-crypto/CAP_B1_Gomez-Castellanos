@@ -1,0 +1,44 @@
+body{
+ background: #ECC4C3;
+}
+
+h1{
+color: #838F58;
+text-align: center;
+font-family: cursive;
+font-size:48;
+}
+
+ul {
+  list-style-type: none;
+  font-family: cursive;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #B46A72;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: #C2C395;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #fff5f5;
+}
+
+p {
+  color: F9E5EA;
+  font-size: 17
+}
+iframe{
+  display:block
+  margin: 20px auto;
+}
